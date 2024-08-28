@@ -98,9 +98,15 @@ TEENKIRI는 초등학생을 위한 교육 플랫폼으로, 무상으로 고품�
 
 ## 시스템 아키텍쳐
 ### 백엔드 아키텍쳐
-![backend](/asset/백엔드아키텍쳐.png)
+![백엔드아키텍쳐](https://github.com/user-attachments/assets/53f6f1eb-13c2-46de-951d-059a298a2b5e)
 ### 프론트엔드 아키텍쳐
-![frontend](/asset/아키텍쳐.png)
+![프론트아키텍쳐](https://github.com/user-attachments/assets/adf255a8-bd52-484b-8cb5-865c86e1d877)
+### 영상 아키텍쳐
+![KakaoTalk_Photo_2024-08-21-13-01-23-2](https://github.com/user-attachments/assets/cbcb1670-9ae4-4539-a1ff-c3f51bc78666)
+### 채팅 아키텍쳐
+![KakaoTalk_Photo_2024-08-21-13-22-33](https://github.com/user-attachments/assets/cc7210a9-6dda-4409-9193-923615eb1c7e)
+### 구글 로그인 아키텍쳐
+![image](https://github.com/user-attachments/assets/08bc2d5b-cab9-407d-aef4-964852336dfc)
 
 <details>
   <summary>통신플로우</summary>
@@ -233,3 +239,4 @@ TEENKIRI는 초등학생을 위한 교육 플랫폼으로, 무상으로 고품�
   <img src= "https://github.com/user-attachments/assets/3fc0e9f5-54ba-4c33-88fa-be6c36749ea1">
 </details>
 
+구글 로그인 아키텍처 출처: https://velog.io/@bdd14club/%EB%B0%B1%EC%97%94%EB%93%9C-2.-%EA%B5%AC%EA%B8%80-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
